@@ -6,7 +6,7 @@ Simple text-based non-hierarchical mind-mapping utility.
 QuickStart
 ==========
 
-Start the REPL:
+Start the interactive prompt:
 
     ./mm.js
     
@@ -26,10 +26,6 @@ Add some entries:
 View your work:
 
     query
-
-Save your work:
-
-    save
 
 At any time, get a full list of commands with:
 
