@@ -26,7 +26,11 @@ Add some entries:
 View your work:
 
     query
-    
+
+Save your work:
+
+    save
+
 At any time, get a full list of commands with:
 
     help
