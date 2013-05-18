@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var repl = require('repl')
   , fs = require('fs')
   , cliArgs = process.argv.slice(2)
