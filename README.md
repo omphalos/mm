@@ -8,7 +8,7 @@ QuickStart
 
 Start the REPL:
 
-    mm
+    ./mm.js
     
 Create an entry:
 
